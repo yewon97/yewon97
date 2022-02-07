@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jeon%20Yewon&fontSize=90)
 <img src="https://img.shields.io/badge/JavaScript-JavaScript-F7DF1E" href="#"/>
 
 ![yewon97's github stats](https://github-readme-stats.vercel.app/api?username=yewon97&show_icons=true)
