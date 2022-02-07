@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jeon%20Yewon&fontSize=90)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E-JavaScript-#F7DF1E"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
 
 ![yewon97's github stats](https://github-readme-stats.vercel.app/api?username=yewon97&show_icons=true)
 [![yewon97's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon97&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
